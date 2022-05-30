@@ -1,0 +1,7 @@
+What is the difference between add, commit, and push?
+git add
+将自己的修改提交到缓存中
+git commit
+将缓存修改过的文件提交到本地仓库中
+git push
+将本地仓库的修改提交到远程仓库上
